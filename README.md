@@ -1,4 +1,6 @@
 # monzo
+⚠️ *work in progress*
+
 Unofficial Client Library for Monzo API
 
 ```typescript
