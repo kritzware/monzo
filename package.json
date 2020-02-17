@@ -1,0 +1,13 @@
+{
+  "name": "monzo",
+  "version": "1.0.0",
+  "main": "dist/index.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.1"
+  }
+}
